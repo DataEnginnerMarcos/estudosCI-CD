@@ -1,0 +1,1 @@
+aqui são realizados comando de performance delta, teste antes de enviar para o sistema principal
